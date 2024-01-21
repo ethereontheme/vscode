@@ -1,0 +1,21 @@
+{
+  "name": "ethereontheme",
+  "displayName": "Ethereon",
+  "description": "Ethereon is a minimal and sublte theme designed to be pleasing on the eye",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Ethereon",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Ethereon-color-theme.json"
+      }
+    ]
+  }
+}
