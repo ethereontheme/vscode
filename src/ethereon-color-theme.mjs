@@ -1,4 +1,4 @@
-import { readFileSync, write, writeFileSync } from 'fs';
+import { readFileSync, writeFileSync } from 'fs';
 import * as jt from 'json-templater'
 
 const color_base = JSON.parse(readFileSync('src/base/src/base.json', 'utf8'));
