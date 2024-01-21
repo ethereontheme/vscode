@@ -15,6 +15,9 @@
         "activityBar.border": "{{color_ee_base_15}}",
         "activityBar.activeBackground": "{{color_teal_0}}1a",
 
+        "sideBar.background": "{{color_ee_base_10}}",
+        "sideBar.foreground": "{{color_ee_base_85}}",
+
         "editor.background": "{{color_ee_base_00}}",
         "editor.foreground": "{{color_ee_base_100}}",
         "editorLineNumber.foreground": "{{color_ee_base_40}}",
@@ -31,6 +34,6 @@
         "editor.findMatchHighlightBackground": "{{color_orange_4}}40",
         "editor.findMatchHighlightBorder": "{{color_orange_4}}00",
         "editor.findRangeHighlightBackground": "{{color_ee_base_05}}80",
-        "editor.findRangeHighlightBorder": "{{color_ee_base_05}}00",
+        "editor.findRangeHighlightBorder": "{{color_ee_base_05}}00"
     }
 }
