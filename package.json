@@ -20,5 +20,8 @@
   },
   "devDependencies": {
     "json-templater": "^1.2.0"
+  },
+  "scripts": {
+    "build": "node src/ethereon-color-theme.mjs"
   }
 }
