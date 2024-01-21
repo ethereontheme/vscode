@@ -1,0 +1,17 @@
+{
+    "name": "Ethereon",
+    "colors": {
+        "foreground": "{{color_ee_base_100}}",
+        "focusBorder": "{{color_teal_0}}",
+        "progressBar.background": "{{color_teal_0}}",
+        "selection.background": "{{color_teal_4}}",
+        "scrollbar.shadow": "{{color_ee_base_00}}",
+        "activityBar.foreground": "{{color_ee_base_95}}",
+        "activityBar.background": "{{color_ee_base_15}}",
+        "activityBar.inactiveForeground": "{{color_ee_base_50}}",
+        "activityBarBadge.foreground": "{{color_ee_base_10}}",
+        "activityBarBadge.background": "{{color_teal_1}}",
+        "activityBar.border": "{{color_ee_base_15}}",
+        "activityBar.activeBackground": "{{color_teal_0}}33", /** 20% (0x33) opacity */
+    }
+}
