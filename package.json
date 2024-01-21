@@ -14,8 +14,11 @@
       {
         "label": "Ethereon",
         "uiTheme": "vs-dark",
-        "path": "./themes/Ethereon-color-theme.json"
+        "path": "./themes/ethereon-color-theme.json"
       }
     ]
+  },
+  "devDependencies": {
+    "json-templater": "^1.2.0"
   }
 }
