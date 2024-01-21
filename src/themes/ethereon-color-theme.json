@@ -14,5 +14,16 @@
         "activityBarBadge.background": "{{color_teal_4}}bf",
         "activityBar.border": "{{color_ee_base_15}}",
         "activityBar.activeBackground": "{{color_teal_0}}1a",
+        "editor.background": "{{color_ee_base_00}}",
+        "editor.foreground": "{{color_ee_base_100}}",
+        "editorLineNumber.foreground": "{{color_ee_base_40}}",
+        "editorLink.activeForeground": "{{color_ee_base_75}}",
+        "editorCursor.foreground": "{{color_ee_base_65}}",
+        "editorCursor.background": "{{color_ee_base_100}}",
+        "editor.selectionBackground": "{{color_blue_4}}",
+        "editor.inactiveSelectionBackground": "{{color_blue_4}}4d",
+        "editorWhitespace.foreground": "{{color_ee_base_30}}",
+        "editor.selectionHighlightBackground": "{{color_ee_base_10}}",
+        "editor.selectionHighlightBorder": "{{color_ee_base_15}}"
     }
 }
