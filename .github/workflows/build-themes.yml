@@ -1,0 +1,31 @@
+name: Build and commit themes/*.json
+
+on: push
+
+jobs:
+  build-theme-css:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          submodules: true
+      - uses: actions/setup-node@v3
+        with:
+          node-version: '20'
+      - name: Install dependencies
+        id: install_dep
+        run: npm install
+      - name: Build less
+        id: build_less
+        run: npm run build
+      - name: Commit themes/*.json
+        id: commit_theme_css
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: Update theme/*.json
+          file_pattern: themes/*.json
+          add_options: --force
