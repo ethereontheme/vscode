@@ -11,7 +11,7 @@
         "activityBar.background": "{{color_ee_base_15}}",
         "activityBar.inactiveForeground": "{{color_ee_base_50}}",
         "activityBarBadge.foreground": "{{color_ee_base_90}}",
-        "activityBarBadge.background": "{{color_teal_4}c0",
+        "activityBarBadge.background": "{{color_teal_0}}c0",
         "activityBar.border": "{{color_ee_base_15}}",
         "activityBar.activeBackground": "{{color_teal_0}}1a",
 
