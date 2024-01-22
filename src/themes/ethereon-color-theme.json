@@ -80,6 +80,7 @@
         "editorSuggestWidget.foreground": "{{color_ee_base_95}}",
         "editorSuggestWidget.highlightForeground": "{{color_teal_2}}",
         "editorSuggestWidget.selectedBackground": "{{color_teal_4}}80",
+        "editorSuggestWidget.focusHighlightForeground": "{{color_teal_2}}",
 
         "editorHoverWidget.foreground": "{{color_ee_base_95}}",
         "editorHoverWidget.background": "{{color_ee_base_05}}e6",
