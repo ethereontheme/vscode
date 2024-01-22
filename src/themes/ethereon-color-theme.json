@@ -66,6 +66,23 @@
         "editorMarkerNavigation.background": "{{color_ee_base_05}}",
         "editorMarkerNavigationError.background": "{{color_red_4}}",
         "editorMarkerNavigationWarning.background": "{{color_yellow_4}}",
-        "editorMarkerNavigationInfo.background": "{{color_blue_4}}"
+        "editorMarkerNavigationInfo.background": "{{color_blue_4}}",
+
+        "merge.currentHeaderBackground": "{{color_teal_3}}",
+        "merge.currentContentBackground": "{{color_teal_4}}",
+        "merge.incomingHeaderBackground": "{{color_blue_3}}",
+        "merge.incomingContentBackground": "{{color_blue_4}}",
+        "merge.commonHeaderBackground": "{{color_ee_base_25}}",
+        "merge.commonContentBackground": "{{color_ee_base_15}}",
+
+        "editorSuggestWidget.background": "{{color_ee_base_05}}e6",
+        "editorSuggestWidget.border": "{{color_ee_base_25}}",
+        "editorSuggestWidget.foreground": "{{color_ee_base_95}}",
+        "editorSuggestWidget.highlightForeground": "{{color_teal_2}}",
+        "editorSuggestWidget.selectedBackground": "{{color_teal_4}}80",
+
+        "editorHoverWidget.foreground": "{{color_ee_base_95}}",
+        "editorHoverWidget.background": "{{color_ee_base_05}}e6",
+        "editorHoverWidget.border": "{{color_ee_base_25}}"
     }
 }
