@@ -11,7 +11,7 @@
         "activityBar.background": "{{color_ee_base_15}}",
         "activityBar.inactiveForeground": "{{color_ee_base_50}}",
         "activityBarBadge.foreground": "{{color_ee_base_90}}",
-        "activityBarBadge.background": "{{color_teal_4}}bf",
+        "activityBarBadge.background": "{{color_teal_4}c0",
         "activityBar.border": "{{color_ee_base_15}}",
         "activityBar.activeBackground": "{{color_teal_0}}1a",
 
@@ -21,7 +21,7 @@
         "editor.background": "{{color_ee_base_00}}",
         "editor.foreground": "{{color_ee_base_100}}",
         "editorLineNumber.foreground": "{{color_ee_base_40}}",
-        "editorLink.activeForeground": "{{color_ee_base_75}}",
+        "editorLineNumber.activeForeground": "{{color_ee_base_75}}",
         "editorCursor.foreground": "{{color_ee_base_65}}",
         "editorCursor.background": "{{color_ee_base_100}}",
         "editor.selectionBackground": "{{color_blue_4}}",
@@ -34,6 +34,17 @@
         "editor.findMatchHighlightBackground": "{{color_orange_4}}40",
         "editor.findMatchHighlightBorder": "{{color_orange_4}}00",
         "editor.findRangeHighlightBackground": "{{color_ee_base_05}}80",
-        "editor.findRangeHighlightBorder": "{{color_ee_base_05}}00"
+        "editor.findRangeHighlightBorder": "{{color_ee_base_05}}00",
+        "editor.rangeHighlightBackground": "{{color_ee_base_05}}",
+        "editor.hoverHighlightBackground": "{{color_teal_4}}40",
+        "editor.wordHighlightStrongBackground": "{{color_blue_4}}80",
+        "editor.wordHighlightBackground": "{{color_blue_0}}40",
+        "editor.lineHighlightBackground": "{{color_ee_base_10}}",
+        "editorLink.activeForeground": "{{color_purple_2}}",
+        "editorIndentGuide.background1": "{{color_ee_base_25}}",
+        "editorIndentGuide.activeBackground1": "{{color_teal_0}}",
+        "editorRuler.foreground": "{{color_red_4}}c0",
+        "editorBracketMatch.background": "{{color_ee_base_05}}",
+        "editorBracketMatch.border": "{{color_ee_base_45}}"
     }
 }
