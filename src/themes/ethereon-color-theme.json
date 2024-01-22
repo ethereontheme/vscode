@@ -58,6 +58,14 @@
         "editorGutter.addedBackground": "{{color_green_4}}",
         "editorGutter.deletedBackground": "{{color_red_3}}",
         "editorGutter.foldingControlForeground": "{{color_ee_base_80}}",
-        "editorCodeLens.foreground": "{{color_teal_1}}c0"
+        "editorCodeLens.foreground": "{{color_teal_1}}c0",
+
+        "diffEditor.insertedTextBackground": "{{color_green_0}}40",
+        "diffEditor.removedTextBackground": "{{color_red_4}}40",
+
+        "editorMarkerNavigation.background": "{{color_ee_base_05}}",
+        "editorMarkerNavigationError.background": "{{color_red_4}}",
+        "editorMarkerNavigationWarning.background": "{{color_yellow_4}}",
+        "editorMarkerNavigationInfo.background": "{{color_blue_4}}"
     }
 }
