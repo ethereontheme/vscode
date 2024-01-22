@@ -45,6 +45,19 @@
         "editorIndentGuide.activeBackground1": "{{color_teal_0}}",
         "editorRuler.foreground": "{{color_red_4}}c0",
         "editorBracketMatch.background": "{{color_ee_base_05}}",
-        "editorBracketMatch.border": "{{color_ee_base_45}}"
+        "editorBracketMatch.border": "{{color_ee_base_45}}",
+        "editor.foldBackground": "{{color_pink_3}}40",
+        "editorError.background": "{{color_red_3}}20",
+        "editorError.foreground": "{{color_red_3}}",
+        "editorWarning.background": "{{color_yellow_3}}20",
+        "editorWarning.foreground": "{{color_yellow_3}}",
+        "editorInfo.background": "{{color_blue_3}}20",
+        "editorInfo.foreground": "{{color_blue_3}}",
+        "editorGutter.background": "{{color_ee_base_05}}80",
+        "editorGutter.modifiedBackground": "{{color_blue_3}}",
+        "editorGutter.addedBackground": "{{color_green_4}}",
+        "editorGutter.deletedBackground": "{{color_red_3}}",
+        "editorGutter.foldingControlForeground": "{{color_ee_base_80}}",
+        "editorCodeLens.foreground": "{{color_teal_1}}c0"
     }
 }
