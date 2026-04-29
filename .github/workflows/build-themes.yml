@@ -29,4 +29,3 @@ jobs:
           commit_message: Update theme/*.json
           file_pattern: themes/*.json
           add_options: --force
-          skip_dirty_check: true
