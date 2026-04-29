@@ -5,6 +5,7 @@
   "description": "Ethereon is a minimal and subtle theme designed to be pleasing on the eye",
   "version": "1.0.0",
   "license": "GPL-3.0-only",
+  "icon": "assets/icon.png",
   "repository": {
     "type": "git",
     "url": "https://github.com/ethereontheme/vscode.git"

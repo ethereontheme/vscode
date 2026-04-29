@@ -6,3 +6,4 @@ src/**
 .gitmodules
 .gitattributes
 vsc-extension-quickstart.md
+*.vsix
