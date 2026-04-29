@@ -1,16 +1,17 @@
-# Ethereon README
+# Ethereon VS Code Theme
 
-## Working with Markdown
+A minimal and subtle VS Code theme designed to be pleasing on the eye.
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+## Themes
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+- `Ethereon Dark`
+- `Ethereon Light`
 
-## For more information
+## Development
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+Theme sources live in `src/themes/`. Run the build script to generate files under `themes/`.
 
-**Enjoy!**
+```sh
+npm install
+npm run build
+```

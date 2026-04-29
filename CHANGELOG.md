@@ -6,4 +6,6 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## [Unreleased]
 
-- Initial release
+- Tune `Ethereon Dark` from the official Ethereon palette.
+- Add `Ethereon Light`.
+- Soften link colors in both themes.
