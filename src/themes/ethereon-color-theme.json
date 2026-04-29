@@ -12,7 +12,7 @@
         "activityBar.inactiveForeground": "{{color_ee_base_50}}",
         "activityBarBadge.foreground": "{{color_ee_base_90}}",
         "activityBarBadge.background": "{{color_teal_0}}c0",
-        "activityBar.border": "{{color_ee_base_15}}",
+        "activityBar.border": "{{color_ee_base_15}}B3",
         "activityBar.activeBackground": "{{color_teal_0}}1a",
 
         "sideBar.background": "{{color_ee_base_10}}",
@@ -28,7 +28,7 @@
         "editor.inactiveSelectionBackground": "{{color_blue_4}}4d",
         "editorWhitespace.foreground": "{{color_ee_base_30}}",
         "editor.selectionHighlightBackground": "{{color_ee_base_05}}",
-        "editor.selectionHighlightBorder": "{{color_ee_base_15}}",
+        "editor.selectionHighlightBorder": "{{color_ee_base_15}}B3",
         "editor.findMatchBackground": "{{color_green_4}}40",
         "editor.findMatchBorder": "{{color_green_4}}00",
         "editor.findMatchHighlightBackground": "{{color_orange_4}}40",
@@ -41,11 +41,11 @@
         "editor.wordHighlightBackground": "{{color_blue_0}}40",
         "editor.lineHighlightBackground": "{{color_ee_base_10}}",
         "editorLink.activeForeground": "{{color_purple_2}}",
-        "editorIndentGuide.background1": "{{color_ee_base_25}}",
-        "editorIndentGuide.activeBackground1": "{{color_teal_0}}",
-        "editorRuler.foreground": "{{color_red_4}}c0",
+        "editorIndentGuide.background1": "{{color_ee_base_25}}B3",
+        "editorIndentGuide.activeBackground1": "{{color_teal_0}}CC",
+        "editorRuler.foreground": "{{color_red_4}}99",
         "editorBracketMatch.background": "{{color_ee_base_05}}",
-        "editorBracketMatch.border": "{{color_ee_base_45}}",
+        "editorBracketMatch.border": "{{color_ee_base_45}}B3",
         "editor.foldBackground": "{{color_pink_3}}40",
         "editorError.background": "{{color_red_3}}20",
         "editorError.foreground": "{{color_red_3}}",
@@ -76,7 +76,7 @@
         "merge.commonContentBackground": "{{color_ee_base_15}}",
 
         "editorSuggestWidget.background": "{{color_ee_base_05}}e6",
-        "editorSuggestWidget.border": "{{color_ee_base_25}}",
+        "editorSuggestWidget.border": "{{color_ee_base_25}}B3",
         "editorSuggestWidget.foreground": "{{color_ee_base_95}}",
         "editorSuggestWidget.highlightForeground": "{{color_teal_2}}",
         "editorSuggestWidget.selectedBackground": "{{color_teal_4}}80",
@@ -84,7 +84,7 @@
 
         "editorHoverWidget.foreground": "{{color_ee_base_95}}",
         "editorHoverWidget.background": "{{color_ee_base_05}}e6",
-        "editorHoverWidget.border": "{{color_ee_base_25}}"
+        "editorHoverWidget.border": "{{color_ee_base_25}}B3"
     },
     "tokenColors": [
         {
