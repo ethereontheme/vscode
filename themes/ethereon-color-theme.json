@@ -21,7 +21,7 @@
         "editorLineNumber.activeForeground": "#b1b0b2",
         "editorCursor.foreground": "#9d9c9e",
         "editorCursor.background": "#e2e0d2",
-        "editor.selectionBackground": "#2D4265",
+        "editor.selectionBackground": "#68799540",
         "editor.inactiveSelectionBackground": "#2D42654d",
         "editorWhitespace.foreground": "#58595b",
         "editor.selectionHighlightBackground": "#27292b",

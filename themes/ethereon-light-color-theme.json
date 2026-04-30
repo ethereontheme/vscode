@@ -37,7 +37,7 @@
         "editor.inactiveSelectionBackground": "#c4c3c5",
         "editor.lineHighlightBackground": "#cecdcf",
         "editor.rangeHighlightBackground": "#c4c3c5",
-        "editor.selectionBackground": "#86A8A4",
+        "editor.selectionBackground": "#bbb9bb",
         "editor.selectionForeground": "#313234",
         "editor.wordHighlightBackground": "#bbb9bb",
         "editor.wordHighlightStrongBackground": "#b1b0b2",
