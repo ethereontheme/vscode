@@ -4,6 +4,12 @@ All notable changes to the "ethereon" extension will be documented in this file.
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## [Unreleased]
+
+### Changed
+
+- Use base dark colors for the status bar background instead of accent colors.
+
 ## [1.1.0] - 2026-04-30
 
 - Align remaining `Ethereon Dark` UI colors with the official Ethereon base palette.
