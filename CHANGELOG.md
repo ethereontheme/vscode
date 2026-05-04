@@ -6,9 +6,12 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## [Unreleased]
 
+## [1.2.0] - 2026-05-04
+
 ### Changed
 
 - Use base dark colors for the status bar background instead of accent colors.
+- Add explicit minimap slider colors to `Ethereon Dark` and `Ethereon Light`.
 
 ## [1.1.0] - 2026-04-30
 
